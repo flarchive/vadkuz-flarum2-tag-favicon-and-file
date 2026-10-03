@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of vadkuz/flarum2-tag-favicon-and-file.** Not for installation: use [Packagist](https://packagist.org/packages/vadkuz/flarum2-tag-favicon-and-file) or the [upstream repository](https://github.com/vadkuz/flarum2-tag-favicon-and-file).
 
-**0** versions archived · Latest: [`v0.1.14`](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.14) · License: `MIT` · Flarum: `^2.0.0-beta.6`
+**15** versions archived · Latest: [`v0.1.14`](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.14) · License: `MIT` · Flarum: `^2.0.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-02-17 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-02-17 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.1) |
+| `v0.1.10` | 2026-02-19 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.10) |
+| `v0.1.11` | 2026-02-27 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.11) |
+| `v0.1.12` | 2026-02-27 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.12) |
+| `v0.1.13` | 2026-02-27 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.13) |
+| `v0.1.14` | 2026-02-27 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.14) |
+| `v0.1.2` | 2026-02-17 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.2) |
+| `v0.1.3` | 2026-02-17 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.3) |
+| `v0.1.4` | 2026-02-17 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tree/archive/v0.1.4) |
+
+[View all 15 versions](https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file/tags)
 
 Catalog entry: [packages/vadkuz-flarum2-tag-favicon-and-file.json](https://github.com/flarchive/archive-index/blob/main/packages/vadkuz-flarum2-tag-favicon-and-file.json)
 
